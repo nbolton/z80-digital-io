@@ -5,18 +5,13 @@
  */
 
 #include <stdio.h>
-#include <stdlib.h>
 
 int main(void) {
-   int value;
-
    printf("IO Button LED in C\n");
    printf("Light LED when button pressed\n");
    printf("Press q to break\n");
 
-   char in;
-   int run = 1;
-   
+   char in;   
    do {
       // light LED when button pressed
       outp(0, inp(0));
