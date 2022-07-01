@@ -1,6 +1,5 @@
 /**
- * Using Turbo Pascal 3.01A (CP/M-80, Z80).
- * RC2014 with the Digital IO module.
+ * RC2014 CP/M-80 Z80 with Digital IO module.
  * Depends: https://github.com/z88dk/z88dk
  */
 
