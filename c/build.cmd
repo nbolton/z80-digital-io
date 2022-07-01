@@ -1,0 +1,1 @@
+zcc +cpm -Wall -o c/bin/iobtnc.com c/src/iobtnc.c -lndos
